@@ -4,4 +4,5 @@ then click on: "New application"
 give it a name a allow it
 give your bot icon
 go to Tags and add tag: "*test" (*you can put any tag that u want)
-Now go to OAuth2
+Now go to "Bot"
+in "Bot Permissions" give him Administrator
